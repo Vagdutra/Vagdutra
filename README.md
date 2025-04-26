@@ -8,8 +8,8 @@
 ## 👀 Sobre mim
 
 - 💻 Apaixonado por tecnologia, desenvolvimento de software e análise de dados
-- 🌱 Atualmente estudando **C#**, **Java** e **Go**
-- 🔁 Amante do aprendizado contínuo e desafios que envolvem lógica e engenharia de software
+- 🌱 Atualmente estudando **Python** e **Banco de dados Oracle**
+- 🔁 Amante do aprendizado contínuo
 - ⚙️ Foco em criar soluções eficientes, escaláveis e bem estruturadas
 - 🤝 Aberto para colaborações em projetos de desenvolvimento backend, APIs, e análise de dados
 
