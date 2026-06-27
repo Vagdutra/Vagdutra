@@ -24,23 +24,23 @@ Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, g
 ### 🚀 Portfólio de Produtos e Projetos em Destaque
 
 #### 🏗️ Produtos (ERPs e Sistemas de Gestão)
-* **[ERP Casa VIP Corporate](https://vagdutraerp.pythonanywhere.com/login):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
+* **[ERP Casa VIP Corporate](https://github.com/Vagdutra/erp-casavip):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
 * **[Pecuária Insights ERP](https://github.com/Vagdutra/AgroManager-ERP):** Solução *offline-first* para gestão agropecuária robusta com trilha de auditoria estrita.
 * **[Drill BJJ School](https://github.com/Vagdutra/ERP-Drill-BJJ):** Gestão esportiva completa: CRM de alunos, fluxo de caixa recorrente e controle de progressão.
 
 #### 📣 Canais de Aquisição (Landing Pages & Conversão)
-* **[Casa VIP - Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html):** 🌐 **[Visualizar Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html)** – *Touchpoint* digital focado em UX de alto padrão e conversão qualificada via API WhatsApp.
+* **[Casa VIP - Landing Page](https://github.com/Vagdutra/Casa-VIP-Moveis-Landing-Page):** 🌐 **[Visualizar Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html)** – *Touchpoint* digital focado em UX de alto padrão e conversão qualificada via API WhatsApp.
 * **[Pecuária Insights - Landing Page](https://github.com/Vagdutra/Pecuaria-Insights-Landing):** 🌐 **[Acessar Live Demo](https://pecuaria-insights-landing.onrender.com/#demo)** – Funil de conversão B2B com foco em captura de leads e conformidade LGPD.
 
 #### 📄 Identidade Profissional
-* **[Web Currículo & Portfólio](https://vagdutra.github.io/curriculo-vagner-dutra/):** Minha trajetória profissional, certificações e histórico consolidado em uma interface web dinâmica e otimizada.
+* **[Web Currículo & Portfólio](https://github.com/Vagdutra/curriculo-vagner-dutra):** 🌐 **[Acessar Portfólio](https://vagdutra.github.io/curriculo-vagner-dutra/)** – Minha trajetória profissional, certificações e histórico consolidado em uma interface dinâmica.
 
 ---
 
 ### 📚 Produção Técnica e Autoral
 
 **[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI](https://www.amazon.com.br/dp/B0GSNMV9HV)**
-Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. O livro é uma extensão da minha experiência na liderança de projetos de dados, servindo como guia de boas práticas para novos profissionais. 
+Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. O livro é uma extensão da minha experiência na liderança de projetos de dados, servindo como guia de boas práticas para novos profissionais.
 
 ---
 
