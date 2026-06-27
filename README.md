@@ -24,7 +24,7 @@ Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, g
 ### 🚀 Portfólio de Produtos e Projetos em Destaque
 
 #### 🏗️ Produtos (ERPs e Sistemas de Gestão)
-* **[ERP Casa VIP Corporate](https://github.com/Vagdutra/erp-casavip):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
+* **[ERP Casa VIP Corporate](https://github.com/Vagdutra/erp-casavip):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado. (Solicite um acesso temporário para manipular e conhecer o sistema)
 * **[Pecuária Insights ERP](https://github.com/Vagdutra/AgroManager-ERP):** Solução *offline-first* para gestão agropecuária robusta com trilha de auditoria estrita.
 * **[Drill BJJ School](https://github.com/Vagdutra/ERP-Drill-BJJ):** Gestão esportiva completa: CRM de alunos, fluxo de caixa recorrente e controle de progressão.
 
