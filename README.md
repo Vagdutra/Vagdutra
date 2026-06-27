@@ -2,9 +2,9 @@
 
 **Product Owner | Business Systems Analyst | Especialista em Transformação Digital B2B**
 
-Atuo como o elo estratégico definitivo entre a visão de negócios corporativa e a engenharia de software. Com uma base híbrida sólida, minha especialidade é liderar o ciclo de vida de produtos digitais, desde o **Product Discovery** e refinamento de requisitos até a arquitetura e implantação de soluções escaláveis e seguras.
+Atuo como o elo estratégico entre a visão de negócios corporativa e a engenharia de software. Especialista em liderar o ciclo de vida de produtos digitais, do **Product Discovery** à implantação de soluções escaláveis e seguras.
 
-Meu foco não é apenas escrever código, mas traduzir necessidades críticas do mercado em backlogs eficientes, garantindo conformidade regulatória (LGPD), mitigação de riscos operacionais e geração de valor tangível para grandes organizações.
+Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, garantindo conformidade regulatória (LGPD), mitigação de riscos operacionais e geração de valor tangível para grandes organizações.
 
 ---
 
@@ -24,20 +24,23 @@ Meu foco não é apenas escrever código, mas traduzir necessidades críticas do
 ### 🚀 Portfólio de Produtos e Projetos em Destaque
 
 #### 🏗️ Produtos (ERPs e Sistemas de Gestão)
-* **[ERP Casa VIP Corporate](link-do-repositorio):** ERP boutique para o setor de varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
+* **[ERP Casa VIP Corporate](https://vagdutraerp.pythonanywhere.com/login):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
 * **[Pecuária Insights ERP](link-do-repositorio):** Solução *offline-first* para gestão agropecuária robusta com trilha de auditoria estrita.
 * **[Drill BJJ School](link-do-repositorio):** Gestão esportiva completa: CRM de alunos, fluxo de caixa recorrente e controle de progressão.
 
 #### 📣 Canais de Aquisição (Landing Pages & Conversão)
-* **[Casa VIP - Landing Page Premium](link-do-repositorio):** *Touchpoint* digital focado em UX de alto padrão e conversão qualificada via API WhatsApp.
-* **[Pecuária Insights - Landing Page](link-do-repositorio):** 🌐 **[Acessar Live Demo](https://pecuaria-insights-landing.onrender.com/#demo)** – Funil de conversão B2B com foco em captura de leads qualificados e conformidade LGPD.
+* **[Casa VIP - Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html):** 🌐 **[Visualizar Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html)** – *Touchpoint* digital focado em UX de alto padrão e conversão qualificada via API WhatsApp.
+* **[Pecuária Insights - Landing Page](link-do-repositorio):** 🌐 **[Acessar Live Demo](https://pecuaria-insights-landing.onrender.com/#demo)** – Funil de conversão B2B com foco em captura de leads e conformidade LGPD.
+
+#### 📄 Identidade Profissional
+* **[Web Currículo & Portfólio](https://vagdutra.github.io/curriculo-vagner-dutra/):** Minha trajetória profissional, certificações e histórico consolidado em uma interface web dinâmica e otimizada.
 
 ---
 
 ### 📚 Produção Técnica e Autoral
 
 **[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI] (2026)**
-Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. O livro é uma extensão da minha experiência na liderança de projetos de dados, servindo como guia de boas práticas para novos profissionais. *(Confira os exemplos de código e o sumário [neste repositório](link-do-repositorio)).*
+Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. *(Confira os exemplos de código e o sumário [neste repositório](link-do-repositorio)).*
 
 ---
 
