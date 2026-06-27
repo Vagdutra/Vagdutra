@@ -25,12 +25,12 @@ Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, g
 
 #### 🏗️ Produtos (ERPs e Sistemas de Gestão)
 * **[ERP Casa VIP Corporate](https://vagdutraerp.pythonanywhere.com/login):** 🌐 **[Acessar Sistema Online](https://vagdutraerp.pythonanywhere.com/login)** – ERP boutique para o varejo de luxo, com controle de acessos (RBAC) e motor financeiro integrado.
-* **[Pecuária Insights ERP](link-do-repositorio):** Solução *offline-first* para gestão agropecuária robusta com trilha de auditoria estrita.
-* **[Drill BJJ School](link-do-repositorio):** Gestão esportiva completa: CRM de alunos, fluxo de caixa recorrente e controle de progressão.
+* **[Pecuária Insights ERP](https://github.com/Vagdutra/AgroManager-ERP):** Solução *offline-first* para gestão agropecuária robusta com trilha de auditoria estrita.
+* **[Drill BJJ School](https://github.com/Vagdutra/ERP-Drill-BJJ):** Gestão esportiva completa: CRM de alunos, fluxo de caixa recorrente e controle de progressão.
 
 #### 📣 Canais de Aquisição (Landing Pages & Conversão)
 * **[Casa VIP - Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html):** 🌐 **[Visualizar Landing Page](https://vagdutra.github.io/Casa-VIP-Moveis-Landing-Page/Main/index.html)** – *Touchpoint* digital focado em UX de alto padrão e conversão qualificada via API WhatsApp.
-* **[Pecuária Insights - Landing Page](link-do-repositorio):** 🌐 **[Acessar Live Demo](https://pecuaria-insights-landing.onrender.com/#demo)** – Funil de conversão B2B com foco em captura de leads e conformidade LGPD.
+* **[Pecuária Insights - Landing Page](https://github.com/Vagdutra/Pecuaria-Insights-Landing):** 🌐 **[Acessar Live Demo](https://pecuaria-insights-landing.onrender.com/#demo)** – Funil de conversão B2B com foco em captura de leads e conformidade LGPD.
 
 #### 📄 Identidade Profissional
 * **[Web Currículo & Portfólio](https://vagdutra.github.io/curriculo-vagner-dutra/):** Minha trajetória profissional, certificações e histórico consolidado em uma interface web dinâmica e otimizada.
@@ -39,8 +39,8 @@ Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, g
 
 ### 📚 Produção Técnica e Autoral
 
-**[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI] (2026)**
-Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. *(Confira os exemplos de código e o sumário [neste repositório]([link-do-repositorio](https://www.amazon.com.br/dp/B0GSNMV9HV/ref=pe_134719800_1107348230_OD_03_01_IMG_03_TE_DP)).*
+**[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI](https://www.amazon.com.br/dp/B0GSNMV9HV)**
+Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. O livro é uma extensão da minha experiência na liderança de projetos de dados, servindo como guia de boas práticas para novos profissionais. 
 
 ---
 
