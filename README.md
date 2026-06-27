@@ -40,7 +40,7 @@ Meu foco é traduzir necessidades críticas do mercado em backlogs eficientes, g
 ### 📚 Produção Técnica e Autoral
 
 **[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI] (2026)**
-Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. *(Confira os exemplos de código e o sumário [neste repositório](link-do-repositorio)).*
+Autor desta obra que traduz a complexidade da modelagem de banco de dados e manipulação SQL para a prática corporativa. *(Confira os exemplos de código e o sumário [neste repositório]([link-do-repositorio](https://www.amazon.com.br/dp/B0GSNMV9HV/ref=pe_134719800_1107348230_OD_03_01_IMG_03_TE_DP)).*
 
 ---
 
