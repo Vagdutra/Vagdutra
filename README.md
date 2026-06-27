@@ -1,26 +1,58 @@
-# Olá, eu sou o Vagner Dutra 👋
+# Olá! Eu sou Vagner Dutra 👋
 
-Analista de Sistemas Pleno, desenvolvedor focado em soluções robustas de backend, automação de dados e apaixonado por transformar regras de negócios complexas em código limpo e eficiente.
+**Product Owner | Business Systems Analyst | Especialista em Transformação Digital B2B**
 
-## 🚀 Sobre Mim
-- 👨‍💻 Atuo fortemente no desenvolvimento de portais corporativos, Dashboards Comerciais e sistemas ERP customizados (com foco no nicho de academias de artes marciais e comércio).
-- 🐍 Especialista no ecossistema Python (Flask, Streamlit, Pandas, OpenPyXL) e integração com bancos de dados relacionais.
-- 🗄️ Amplo domínio em Oracle SQL, otimização de queries, criação de relatórios automatizados e arquitetura de dados corporativos.
-- 📚 Autor do e-book *"SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI"*.
-- 🥋 Fora das telas: Praticante de Jiu-Jitsu e Muay Thai, e guitarrista/músico nas horas vagas.
+Atuo como o elo estratégico definitivo entre a visão de negócios corporativa e a engenharia de software. Com uma base híbrida sólida, minha especialidade é liderar o ciclo de vida de produtos digitais, desde o **Product Discovery** e refinamento de requisitos até a arquitetura e implantação de soluções escaláveis e seguras.
 
-## 🛠️ Stack Tecnológica
-- **Linguagens:** Python, SQL (PL/SQL), JavaScript
-- **Frameworks & Web:** Flask, Streamlit, Bootstrap, HTML5, CSS3
-- **Data Science & Automação:** Pandas, OpenPyXL, NumPy
-- **Bancos de Dados:** Oracle DB, PostgreSQL, MySQL
-- **Ferramentas & Ambientes:** Git, Docker, Linux, Metodologias Ágeis
-
-## 📈 Projetos em Destaque
-- **Portais de Relatórios & BI:** Automatização de dados financeiros e atuariais integrados a grandes ERPs.
-- **ERPs Customizados:** Sistemas voltados para gestão de alunos, graduações e fluxo financeiro de academias de artes marciais.
-- **Dashboards Comerciais:** Soluções de monitoramento de KPIs de vendas, ticket médio e giro de estoque para o varejo.
+Meu foco não é apenas escrever código, mas traduzir necessidades críticas do mercado em backlogs eficientes, garantindo conformidade regulatória (LGPD), mitigação de riscos operacionais e geração de valor tangível para grandes organizações.
 
 ---
 
-📫 Conecte-se comigo no [LinkedIn](SEU_LINK_AQUI)
+### 🎯 Minha Caixa de Ferramentas (Tech & Business Stack)
+
+**Gestão e Produto:**
+`Product Ownership` `Scrum` `Kanban` `Engenharia de Requisitos` `BPMN` `Análise de Negócios` 
+
+**Engenharia e Dados:**
+`Python` `Oracle Database` `SQL Avançado` `PL/SQL` `Pandas` `Streamlit` `Flask` `APIs REST`
+
+**Governança e Processos:**
+`Conformidade LGPD` `Segurança in-memory` `Automação de Processos` `Arquitetura de Sistemas`
+
+---
+
+### 🚀 Portfólio de Produtos e Projetos em Destaque
+
+Em vez de apenas repositórios de código, aqui você encontra produtos digitais arquitetados para resolver problemas reais de negócios:
+
+#### 1. [ERP Casa VIP Corporate Management](link-do-repositorio)
+* **O Problema:** Necessidade de unificar fluxos logísticos e comerciais no setor de Arquitetura e Design, com controle rigoroso de acessos.
+* **A Solução:** Desenvolvimento full-stack de um ERP Boutique. 
+* **Stack/Features:** `Python` `Flask` `Módulos de CRM` `Motor Financeiro` `Controle de Acesso (RBAC)` `Painel Kanban`.
+
+#### 2. [Pecuária Insights ERP](link-do-repositorio)
+* **O Problema:** Gestão agropecuária em ambientes remotos com conectividade intermitente ou nula.
+* **A Solução:** Sistema de arquitetura *offline-first* para cobrir fluxos de rebanho e gestão financeira multi-fazenda.
+* **Stack/Features:** `Python` `Pandas` `Desktop Modular` `Dashboard Analítico` `Trilha de Auditoria`.
+
+#### 3. [Drill BJJ School - ERP de Gestão Esportiva](link-do-repositorio)
+* **O Problema:** Academias de artes marciais precisavam de previsibilidade financeira e controle de progressão de alunos.
+* **A Solução:** Sistema customizado voltado para gestão de alunos, graduações e fluxo de caixa recorrente.
+* **Stack/Features:** `Python` `Integração de Dados` `Automação Financeira`.
+
+---
+
+### 📚 Produção Técnica e Autoral
+
+**[SQL Sem Medo: O Guia de Sobrevivência para o Primeiro Emprego em TI] (2026)**
+Sou autor desta obra focada na capacitação prática de profissionais iniciantes. O livro traduz a complexidade da modelagem de banco de dados relacional e manipulação em ecossistema Oracle para uma linguagem acessível e orientada ao mercado de trabalho. *(Acesse o repositório [nome-do-repo] para ver scripts de exemplo e resumos dos capítulos).*
+
+---
+
+### 🥋 Fora das Telas
+
+A disciplina que aplico na engenharia de software vem dos tatames. Sou **Faixa Preta e Professor Voluntário de Jiu-Jitsu** (Drill BJJ School), onde ensino resiliência, estratégia e controle sob alta pressão. Nas horas vagas, a criatividade flui como baixista e músico.
+
+📫 **Vamos conectar?** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagdutra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagdutra@gmail.com)
